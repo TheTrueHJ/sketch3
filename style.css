@@ -1,0 +1,20 @@
+body{
+    background-color: cornsilk;
+}
+
+h1{
+    background-color: azure;
+    margin-top: -1px;
+}
+
+#show_sketch{
+    float: right;
+}
+
+#score{
+    float: left;
+}
+
+#time{
+    float: right;
+}
